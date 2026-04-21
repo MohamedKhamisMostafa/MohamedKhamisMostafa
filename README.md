@@ -56,7 +56,11 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bmZ6Z3R6bmZ6Z3R6bmZ6Z3R6bmZ6Z3R6bmZ6Z3R6bmZ6Z3R6JmVwP3YxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" alt="Coding GIF" />
+</p>
+
+------
 
 ### 📊 GitHub Stats & Activity:
 <table width="100%">
@@ -76,8 +80,8 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <p align="left">🐍 <b>Contribution Snake:</b></p>
-      <img src="https://raw.githubusercontent.com/mohamedkhamismostafa/mohamedkhamismostafa/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+      <p align="left">📈 <b>Activity Graph:</b></p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkhamismostafa&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
